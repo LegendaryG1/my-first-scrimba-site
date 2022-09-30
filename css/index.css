@@ -10,7 +10,10 @@ img{
     border-radius: 30px;
 }
 .hero-image {
-    background-image: url("/images/joscity.jpg");
+     background-image: url("/images/julien-riedel-IalbtwfA02k-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     height: 343px;
     display: flex;
     flex-direction: column;
